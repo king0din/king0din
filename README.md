@@ -13,7 +13,7 @@
 ✉️ &nbsp;Bana telegram profilimden mesaj atabilirsiniz! Mümkün olduğunca çabuk cevap vermeye çalışırım.\
 
 
-<img alt="Gece Kodlama" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Gece Kodlama" src="https://github.com/king0din/king0din/blob/main/assets/Night-Coding.gif?raw=true" align="right"/>
 
 ### 🛠 &nbsp;Teknoloji ile aramdaki
 
