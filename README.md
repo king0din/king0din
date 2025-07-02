@@ -1,4 +1,4 @@
-![King Odin Banner](https://raw.githubusercontent.com/.png)
+![King Odin Banner](https://github.com/king0din/king0din/blob/main/assets/kingodin.png?raw=true)
 
 <img alt="Gece Kodlama" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Merhaba! Ben King Odin</h2>
 
